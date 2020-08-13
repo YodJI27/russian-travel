@@ -14,6 +14,9 @@
     -moz-text-size-adjust: 100%;
     text-rendering: optimizeLegibility;
 }
+.cover__subtitle:hover ~.cover__overlay {
+    opacity: 0.7;
+}
 @media screen and (min-width: 1280px) {
     .cover__subtitle {
         width: calc(100% - 824px);
