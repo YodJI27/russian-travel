@@ -18,4 +18,8 @@
 * [Ссылка на макет в Figma](https://www.figma.com/file/OyRWEjU6wBwRe1hapzQoLx/Sprint-3%3A-Russia-%2F-desktop-%2B-mobile?node-id=28503%3A0)
 
 
+<<<<<<< HEAD
 **Ссылка на сайт**
+=======
+**Ссылка на сайт**
+>>>>>>> e67df8fab85946d503736e94dbab453d1879e25a
