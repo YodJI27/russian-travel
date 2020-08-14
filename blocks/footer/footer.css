@@ -14,7 +14,6 @@
     .footer {
         width: calc(100% - 96px);
         min-width: 928px;
-        min-height: 18px;
         margin: 0 0 24px 0;
         display: flex;
         justify-content: space-between;
@@ -25,7 +24,6 @@
     .footer {
         width: calc(100% - 48px);
         min-width: 720px;
-        min-height: 18px;
         margin: 0 0 24px 0;
         display: flex;
         justify-content: space-between;
@@ -36,7 +34,6 @@
     .footer {
         width: calc(100% - 134px);
         min-width: 186px;
-        min-height: 310px;
         margin: 0 118px 24px 16px;
     }
 }

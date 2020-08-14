@@ -7,7 +7,7 @@
         -moz-text-size-adjust: 100%;
         text-rendering: optimizeLegibility;
 
-        font-family: Inter;
+        font-family: Inter, 'Arial', 'Helvetica';
         font-style: normal;
         font-weight: normal;
         font-size: 12px;

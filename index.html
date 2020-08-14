@@ -9,9 +9,9 @@
 <body class="page">
     <header class="header">
         <img class="header__logo" src="Images/header-logo.svg" alt="Главный логотип">
-        <div class="header__lang-link">
-            <a class="header__lang-link_language_ru" href="#">Ru</a>
-            <a class="header__lang-link_language_en" href="#">En</a>
+        <div class="header__links">
+            <a class="header__lang-link header__lang-link_language-ru" href="#">Ru</a>
+            <a class="header__lang-link header__lang-link_language-en" href="#">En</a>
         </div>
     </header>
     <main class="content">
@@ -25,10 +25,10 @@
             <h2 class="intro__title">Чего мы там не видели?</h2>
             <p class="intro__text">По опросам ВЦИОМ, 95% россиян мечтают куда-нибудь поехать, но только 36% планируют провести отпуск в родной стране. Мол, чего мы тут, дома не видели? На самомо деле, Россия — это целая вселенная с ласковым морем юга, густыми лесами Саян и суровыми льдами плато Путорана. А ещё увидеть все эти красоты можно без миллионов на счету, загранпаспорта и многочасовых перелетов. Как, например, Вера Башмакова — смелая молодая мама, которая взяла в охапку троих детей, усадила их в свою "Ладу" и проехала 20 тысяч киллометров по родной стране. Мы выбрали и описали некоторые интересные места, достойные вашего отпуска.</p>
             <p class="intro__list">Часовых поясов <span class="intro__list-number">11</span></p>
-            <p class="intro__list">Объектов природного наследия ЮНЕСКО <span class="intro__list-number">12</p>
-            <p class="intro__list">Объектов культурного наследия ЮНЕСКО <span class="intro__list-number">16</p>
-            <p class="intro__list">Природных заповедников <span class="intro__list-number">105</p>
-            <p class="intro__list">Аэропортов <span class="intro__list-number">241</p>
+            <p class="intro__list">Объектов природного наследия ЮНЕСКО <span class="intro__list-number">12</span></p>
+            <p class="intro__list">Объектов культурного наследия ЮНЕСКО <span class="intro__list-number">16</span></p>
+            <p class="intro__list">Природных заповедников <span class="intro__list-number">105</span></p>
+            <p class="intro__list">Аэропортов <span class="intro__list-number">241</span></p>
         </section>
         <section class="photo-grid">
             <img class="photo-grid__item" src="Images/photo-grid-train.jpg" alt="Поезд">
@@ -107,18 +107,21 @@
         </section>
         <section class="cover">
             <div class="cover__background"></div>
-            <h2 class="cover__title">До Байкала «на собаках»</h2>
-            <p class="cover__subtitle">По мотивам учебной темы о Транссибе и iframes — путешествие от столицы до Байкала на электричках.</p>
-            <a class="cover__overlay" href="https://stampsy.com/na-elektrichkakh-do-baikala"></a>
+            <a class="cover__overlay" href="https://stampsy.com/na-elektrichkakh-do-baikala">
+                <h2 class="cover__title">До Байкала «на собаках»</h2>
+                <p class="cover__subtitle">По мотивам учебной темы о Транссибе и iframes — путешествие от столицы до Байкала на электричках.</p>
+            </a>
         </section>
     </main>
     <footer class="footer">
-        <nav class="footer__links">
-            <a class="footer__link" href="https://yandex.ru/maps">Карты</a>
-            <a class="footer__link" href="https://yandex.ru/pogoda">Погода</a>
-            <a class="footer__link" href="https://rasp.yandex.ru">Расписание</a>
-            <a class="footer__link" href="https://calendar.yandex.ru">Календарь</a>
-            <a class="footer__link" href="https://travel.yandex.ru">Путешествия</a>
+        <nav class="footer__nav">
+            <ul class="footer__links">
+                <li class="footer__link"><a class="footer__text" href="https://yandex.ru/maps">Карты</a></li>
+                <li class="footer__link"><a class="footer__text" href="https://yandex.ru/pogoda">Погода</a></li>
+                <li class="footer__link"><a class="footer__text" href="https://rasp.yandex.ru">Расписание</a></li>
+                <li class="footer__link"><a class="footer__text" href="https://calendar.yandex.ru">Календарь</a></li>
+                <li class="footer__link"><a class="footer__text" href="https://travel.yandex.ru">Путешествия</a></li>
+            </ul>
         </nav>
         <p class="footer__copyright">&copy;2020. Илья Шнырев</p>
     </footer>

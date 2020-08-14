@@ -35,7 +35,7 @@
         margin: 0 0 72px 0;
         display: grid;
         grid-template-columns: repeat(2, 1fr);
-        grid-template-rows: 46px minmax(300px, 100%);
+        grid-template-rows: 1fr minmax(340px, 100%);
         row-gap: 48px;
         column-gap: 28px;
     }

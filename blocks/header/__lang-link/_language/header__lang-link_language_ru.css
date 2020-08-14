@@ -1,26 +1,3 @@
-.header__lang-link_language_ru {
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  -webkit-text-size-adjust: 100%;
-  -ms-text-size-adjust: 100%;
-  -moz-text-size-adjust: 100%;
-  text-rendering: optimizeLegibility;
-  font-family: 'Inter';
-  width: 30px;
-  height: 28px;
-  text-align: right;
-  vertical-align: top;
-  font-size: 24px;
-  line-height: 28px;
-  font-weight: normal;
-  color: #ffffff;
-  margin: 0 0 4px 0;
-}
-@media screen and (min-width: 320px) and (max-width: 767px) {
-  .header__lang-link_language_ru {
-    min-width: 22px;
-    min-height: 24px;
-    font-size: 18px;
-    line-height: 24px;
-  }
+.header__lang-link_language-ru {
+  text-decoration: underline;
 }
