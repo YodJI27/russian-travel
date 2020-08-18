@@ -32,8 +32,9 @@
 {
     .place__image {
         grid-row: 2;
-        min-width: 320px;
         height: 320px;
+        justify-self: center;
+        min-width: 320px;
         margin: 0 0 0 0;
     }
 }
