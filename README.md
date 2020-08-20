@@ -17,7 +17,7 @@
  
 **Применяем шрифт**  
 
-Inter. [Ссылка на шрифт](https://rsms.me/inter/)  
+[Ссылка на шрифт](https://rsms.me/inter/)  
 
 **Figma**
 
