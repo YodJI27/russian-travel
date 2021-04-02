@@ -22,16 +22,13 @@
 
 [Ссылка на шрифт](https://rsms.me/inter/)  
 
-**Figma**
-
-[Ссылка на макет в Figma](https://www.figma.com/file/OyRWEjU6wBwRe1hapzQoLx/Sprint-3%3A-Russia-%2F-desktop-%2B-mobile?node-id=28503%3A0)
-
 **Cайт**
  
 [Ссылка на сайт](https://yodji27.github.io/russian-travel/)
  
 **Автор**  
 Илья Шнырев  
-Email: shnyrev.iilya@yandex.ru    
-Вконтакте: https://vk.com/shnerov  
-Habr: https://career.habr.com/yodji27
+***<img src="https://www.pngrepo.com/png/285/170/email.png" width="20" height="20">  shnyrev.iilya@yandex.ru***   
+***<img src="https://simpleicons.org/icons/habr.svg" width="20" height="20">  https://career.habr.com/yodji27***  
+***<img src="https://simpleicons.org/icons/telegram.svg" width="20" height="20">  YodJI27***  
+
